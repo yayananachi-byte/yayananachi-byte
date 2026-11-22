@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=680&lines=Building+Robotics+Systems+That+Move;ROS2+%C2%B7+Embedded+Control+%C2%B7+Computer+Vision;From+Perception+to+Engineering+Automation" alt="Typing SVG" />
 
-**朱煜锐** · 专注机器人系统、嵌入式控制与工程自动化，把感知、规划和硬件控制做成可运行的完整系统。
+**Zy** · 专注机器人系统、嵌入式控制与工程自动化，把感知、规划和硬件控制做成可运行的完整系统。
 
 </div>
 
